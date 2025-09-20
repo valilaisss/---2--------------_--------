@@ -59,25 +59,21 @@
             font-weight: bold;
             font-size: 30px;
             margin-bottom: 15px;
-            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         h2 {
             font-weight: bold;
             font-size: 25px;
             margin: 25px 0 15px 0;
-            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         h3 {
             font-size: 20px;
             margin: 25px 0 10px 0;
-            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         h4{
             font-size: 15px;
-            margin: 15px 0 5px 0;
-            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin: 15px 0 15px 0;
         }
         header{
         margin-top:85px;
